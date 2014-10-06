@@ -12,8 +12,6 @@ Vagas Disponíveis
 =================
 
 * Desenvolvedor iOS (1 vaga)
-* Tecnologia D (1 vaga)
-* Tecnologia L (13 vagas)
 
 Desenvolvedor iOS (1 vaga)
 --------------------------------
@@ -51,44 +49,3 @@ Porto Alegre - RS
 **Interesse?**
 
 Envie seu currículo para [work@cwi.com.br](mailto:work@cwi.com.br) com o assunto "Interesse na oportunidade iOS Jedi Master"
-
-
-Tecnologia D (1 vaga)
---------------------------------
-
-Descrição da Vaga
-Banjo cardigan bicycle rights Bushwick, kitsch Cosby sweater art party leggings High Life. Slow-carb four loko keytar High Life brunch bitters gentrify authentic, tousled cardigan butcher farm-to-table. Lomo Tumblr cornhole ennui. Farm-to-table master cleanse banh mi tousled pour-over, YOLO swag put a bird on it fashion axe flannel pickled 3 wolf moon Schlitz. PBR&B retro lo-fi banjo ethical, cray whatever letterpress normcore Pinterest Godard. PBR&B Godard artisan pop-up, freegan brunch tattooed literally polaroid. IPhone try-hard actually, sustainable next level kitsch Tumblr.
-
-**Requisitos para a vaga**
-
-* Experiência com Spring MVC.
-* Experiência sólida com web standards.
-* Conhecimentos de bancos de dados relacionais.
-
-**Local de trabalho**
-
-Zona Norte, São Paulo - SP
-
-**Interesse?**
-
-Envie seu currículo para [worksp@cwi.com.br](mailto:worksp@cwi.com.br)
-
-Tecnologia L (13 vagas)
---------------------------------
-
-Descrição da Vaga
-Banjo cardigan bicycle rights Bushwick, kitsch Cosby sweater art party leggings High Life. Slow-carb four loko keytar High Life brunch bitters gentrify authentic, tousled cardigan butcher farm-to-table. Lomo Tumblr cornhole ennui. Farm-to-table master cleanse banh mi tousled pour-over, YOLO swag put a bird on it fashion axe flannel pickled 3 wolf moon Schlitz. PBR&B retro lo-fi banjo ethical, cray whatever letterpress normcore Pinterest Godard. PBR&B Godard artisan pop-up, freegan brunch tattooed literally polaroid. IPhone try-hard actually, sustainable next level kitsch Tumblr.
-
-**Requisitos para a vaga**
-
-* Experiência com Spring MVC.
-* Experiência sólida com web standards.
-* Conhecimentos de bancos de dados relacionais.
-
-**Local de trabalho**
-
-Zona Norte, São Paulo - SP
-
-**Interesse?**
-
-Envie seu currículo para [worksp@cwi.com.br](mailto:worksp@cwi.com.br)
