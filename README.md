@@ -4,9 +4,7 @@ CWI Software
 
 Desenvolvemos soluções e sistemas de TI com base nas necessidades específicas de empresas de médio a grande porte em âmbito global, desde 1991.
 
-Possuímos o selo CMMI nível 3 e temos como missão produzir soluções que contribuam decisivamente para o sucesso de nossos clientes.
-
-Com o slogan "O software que você procura talvez não exista, mas a empresa que irá fabricá-lo sim”, buscamos excelência em oferecer serviços como Fábrica de Software, Fábrica de Projetos, Fábrica de Testes e Outsourcing.
+[Institucional](http://www.cwi.com.br)
 
 Vagas Disponíveis
 =================
