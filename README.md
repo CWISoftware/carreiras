@@ -1,18 +1,17 @@
 
-CWI Software
-===============================================
+# CWI Software
+
 
 Desenvolvemos soluções e sistemas de TI com base nas necessidades específicas de empresas de médio a grande porte em âmbito global, desde 1991.
 
 [Institucional](http://www.cwi.com.br)
 
-Vagas Disponíveis
-=================
+## Vagas Disponíveis
 
 * Desenvolvedor iOS (1 vaga)
+* Artesão .NET tipo-full-stack (2 vagas)
 
-Desenvolvedor iOS (1 vaga)
---------------------------------
+### Desenvolvedor iOS (1 vaga)
 
 Procuramos desenvolvedores iOS com paixão e determinação para levar tecnologias mobile até o limite, construindo e entregando aplicativos e plataformas de vanguarda com foco em excelência. :metal:
 
@@ -47,3 +46,40 @@ Porto Alegre - RS
 **Interesse?**
 
 Envie seu currículo para [work@cwi.com.br](mailto:work@cwi.com.br) com o assunto "Interesse na oportunidade iOS Jedi Master"
+
+### Artesão .NET tipo-full-stack (2 vagas)
+
+Nosso time quer trabalhar com profissionais que depuram o código do ASP.NET MVC e odeiam quebrar o build do TeamCity. Brincadeiras à parte, se você ama C# está no lugar certo :punch:
+
+**Requisitos obrigatórios para a vaga**
+
+* Trabalhar em time, acima de tudo.
+* Ter comunicação clara e objetiva.
+* Experiência mínima de 3 anos com C#.
+* Experiência mínima de 2 anos com ASP.NET MVC (profissionais da época do ASP.NET MVC 1 são bem-vindos também). :sunglasses:
+* Experiência prévia com Entity Framework, preferencialmente Code First.
+* Experiência prévia com migrations (seja pelo próprio EF migrations, FluentMigrator ou até mesmo nas migrations do Ruby on Rails).
+* Experiência prévia com SQL Server (qualquer versão, desde que tenha trabalhado com modelagem de schemas, T-SQL e tenha algumas noções de otimizações de índices).
+* Experiência prévia com jQuery e um pouco de JavaScript vanilla.
+* Já ter praticado TDD por mais tempo que a duração de um coding dojo.
+* Refatorar apenas códigos cobertos por testes.
+* Escrever testes ao encontrar um bug.
+
+**Nice-to-have**
+
+* Noções de TFS.
+* Noções de GIT.
+* Noções de Amazon Web Services ou Windows Azure.
+* Noções de AngularJS ou KnockoutJS.
+* Noções de HTML5.
+* Noções de design responsivo (!== incluir bootstrap na página).
+* Noções de algum pré-processador CSS (de preferência SASS).
+
+
+**Local de trabalho**
+
+Porto Alegre - RS
+
+**Interesse?**
+
+Envie seu currículo para [nadia@cwi.com.br](mailto:nadia@cwi.com.br) com o assunto "Interesse na oportunidade Artesão .NET tipo-full-stack"
