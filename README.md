@@ -53,7 +53,7 @@ Nosso time quer trabalhar com profissionais que depuram o código do ASP.NET MVC
 
 **Requisitos obrigatórios**
 
-* Trabalhar em time, acima de tudo.
+* Saber trabalhar em equipe, acima de tudo.
 * Ter comunicação clara e objetiva.
 * Experiência mínima de 3 anos com C#.
 * Experiência mínima de 2 anos com ASP.NET MVC (profissionais da época do ASP.NET MVC 1 são bem-vindos também). :sunglasses:
