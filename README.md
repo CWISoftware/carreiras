@@ -15,7 +15,7 @@ Desenvolvemos soluções e sistemas de TI com base nas necessidades específicas
 
 Procuramos desenvolvedores iOS com paixão e determinação para levar tecnologias mobile até o limite, construindo e entregando aplicativos e plataformas de vanguarda com foco em excelência. :metal:
 
-**Requisitos obrigatórios para a vaga**
+**Requisitos obrigatórios**
 
 * Ser um hard-user de plataformas e aplicativos mobile.
 * Experiência mínima de um ano com desenvolvimento iOS.
@@ -51,7 +51,7 @@ Envie seu currículo para [work@cwi.com.br](mailto:work@cwi.com.br) com o assunt
 
 Nosso time quer trabalhar com profissionais que depuram o código do ASP.NET MVC e odeiam quebrar o build do TeamCity. Brincadeiras à parte, se você ama C# está no lugar certo :punch:
 
-**Requisitos obrigatórios para a vaga**
+**Requisitos obrigatórios**
 
 * Trabalhar em time, acima de tudo.
 * Ter comunicação clara e objetiva.
