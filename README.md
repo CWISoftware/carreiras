@@ -9,7 +9,7 @@ Desenvolvemos soluções e sistemas de TI com base nas necessidades específicas
 ## Vagas Disponíveis
 
 * Desenvolvedor iOS (1 vaga)
-* Artesão .NET tipo-full-stack (2 vagas)
+* Artesão .NET tipo-full-stack (1 vaga)
 
 ### Desenvolvedor iOS (1 vaga)
 
@@ -47,7 +47,7 @@ Porto Alegre - RS
 
 Envie seu currículo para [work@cwi.com.br](mailto:work@cwi.com.br) com o assunto "Interesse na oportunidade iOS Jedi Master"
 
-### Artesão .NET tipo-full-stack (2 vagas)
+### Artesão .NET tipo-full-stack (1 vaga)
 
 Nosso time quer trabalhar com profissionais que depuram o código do ASP.NET MVC e odeiam quebrar o build do TeamCity. Brincadeiras à parte, se você ama C# está no lugar certo :punch:
 
