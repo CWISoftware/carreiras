@@ -34,7 +34,7 @@ Envie seu currículo para [work@cwi.com.br](mailto:work@cwi.com.br) com o assunt
 
 ### Desenvolvedor Java Pleno (3 vagas)
 
-Procuramos alguém que priorize a qualidade de entregas e testes e que um forte comprometimento com a equipe. :muscle:
+Procuramos alguém que priorize a qualidade de entregas e testes e que tenha um forte comprometimento com a equipe. :muscle:
 
 **Requisitos Técnicos:**
 
