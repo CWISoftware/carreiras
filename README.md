@@ -38,7 +38,7 @@ Procuramos alguém que priorize a qualidade de entregas e testes e que tenha um 
 
 **Requisitos Técnicos:**
 
- * Experiência com: JAVA EE, AngularJS ou outro Framework JavaScritp MVC utilizando conceito SPA, RESTful, Bootstrap, Spring, Hibernate, Banco de dados Oracle;
+ * Experiência com: JAVA EE, AngularJS ou outro Framework JavaScript MVC utilizando conceito SPA, RESTful, Bootstrap, Spring, Hibernate, Banco de dados Oracle;
 * Experiência com projetos utilizando metodologias ágeis;
 * Desejável conhecimento em SWT, JSP e iReports.
 
