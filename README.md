@@ -11,7 +11,7 @@ Venha trabalhar em uma empresa em que você poderá adquirir experiência em dif
 ## Vagas Disponíveis
 
 * Analista Desenvolvedor Java Pleno (1 vaga)
-* Artesão front-end (1 vaga)
+* Engenheiro Mobile (1 vaga)
 * Desenvolvedor Java Pleno (3 vagas)
 
 ### Analista Desenvolvedor Java Pleno (1 vaga)
@@ -33,9 +33,9 @@ Porto Alegre - RS
 
 Envie seu currículo para [work@cwi.com.br](mailto:work@cwi.com.br) com o assunto "Interesse na oportunidade Analista Desenvolvedor Java"
 
-### Artesão front-end (1 vaga)
+### Engenheiro Mobile (1 vaga)
 
-Nosso time quer trabalhar com profissionais que depuram o código do AngularJS e odeiam quebrar os testes do Jasmine. Brincadeiras à parte, se você ama CoffeeScript está no lugar certo. :coffee:
+Nosso time quer trabalhar com profissionais que depuram o código do AngularJS e odeiam quebrar os testes do Jasmine. Brincadeiras à parte, se você ama desenvolvimento mobile e CoffeeScript está no lugar certo. :coffee:
 
 **Requisitos Técnicos:**
 
@@ -68,7 +68,7 @@ Porto Alegre - RS
 
 **Interesse?**
 
-Envie seu currículo para [nadia@cwi.com.br](mailto:nadia@cwi.com.br) com o assunto "Interesse na oportunidade Artesão front-end"
+Envie seu currículo para [nadia@cwi.com.br](mailto:nadia@cwi.com.br) com o assunto "Interesse na oportunidade Engenheiro mobile"
 
 ### Desenvolvedor Java Pleno (3 vagas)
 
