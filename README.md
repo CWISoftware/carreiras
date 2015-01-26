@@ -11,6 +11,7 @@ Venha trabalhar em uma empresa em que você poderá adquirir experiência em dif
 ## Vagas Disponíveis
 
 * Analista Desenvolvedor Java Pleno (1 vaga)
+* Artesão front-end (1 vaga)
 * Desenvolvedor Java Pleno (3 vagas)
 
 ### Analista Desenvolvedor Java Pleno (1 vaga)
@@ -31,6 +32,43 @@ Porto Alegre - RS
 **Interesse?**
 
 Envie seu currículo para [work@cwi.com.br](mailto:work@cwi.com.br) com o assunto "Interesse na oportunidade Analista Desenvolvedor Java"
+
+### Artesão front-end (1 vaga)
+
+Nosso time quer trabalhar com profissionais que depuram o código do AngularJS e odeiam quebrar os testes do Jasmine. Brincadeiras à parte, se você ama CoffeeScript está no lugar certo. :coffee:
+
+**Requisitos Técnicos:**
+
+* Ser um hard-user de plataformas e aplicativos mobile; 
+* Experiência mínima de 2 anos com JavaScript; 
+* Experiência mínima de 6 meses com AngularJS; 
+* Experiência mínima de 1 ano com HTML5; 
+* Já ter praticado TDD por mais tempo que a duração de um coding dojo; 
+* Refatorar apenas códigos cobertos por testes; 
+* Escrever testes ao encontrar um bug. 
+
+**Nice-to-have:**
+
+* Experiência prévia com CoffeeScript; 
+* Experiência prévia com desenvolvimento mobile híbrido; 
+* Experiência prévia com CSS3; 
+* Experiência GIT no modelo GIT-flow; 
+* Experiência de revisão de código com Pull Requests; 
+* Noções de design responsivo (!== incluir bootstrap na página); 
+* Noções de algum pré-processador CSS (de preferência SASS).
+
+**Competências comportamentais:**
+
+* Saber trabalhar em equipe, acima de tudo;
+* Ter comunicação clara e objetiva.
+
+**Local de trabalho**
+
+Porto Alegre - RS
+
+**Interesse?**
+
+Envie seu currículo para [nadia@cwi.com.br](mailto:nadia@cwi.com.br) com o assunto "Interesse na oportunidade Artesão front-end"
 
 ### Desenvolvedor Java Pleno (3 vagas)
 
