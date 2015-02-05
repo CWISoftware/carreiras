@@ -10,13 +10,37 @@ Venha trabalhar em uma empresa em que você poderá adquirir experiência em dif
 
 ## Vagas Disponíveis
 
+* Desenvolvedor Ruby (4 vagas)
 * Analista Desenvolvedor Java Pleno (1 vaga)
 * Engenheiro Mobile (1 vaga)
 * Desenvolvedor Java Pleno (3 vagas)
 
+
+### Desenvolvedor Ruby (4 vagas)
+
+Estamos em busca de alguém que goste de trabalhar em equipe, que queira e tenha facilidade em aprender novas tecnologias e metodologias! :sunglasses:
+
+**Precisa ter experiência com:**
+
+ * Ruby e Ruby on Rails;
+ * Desenvolvimento Web (não apenas jQuery);
+ * Desenvolvimento em ambiente UNIX;
+ * Pelo menos uma prática de programação extrema;
+ * Pelo menos uma prática de desenvolvimento ágil.
+
+**Local de trabalho**
+
+Porto Alegre - RS
+
+**Tem interesse?**
+
+Então envia para nós o seu currículo, e-mail: [work@cwi.com.br](mailto:work@cwi.com.br) com o assunto "Interesse na oportunidade Desenvolvedor Ruby". :e-mail:
+
+
+
 ### Analista Desenvolvedor Java Pleno (1 vaga)
 
-Procuramos alguém que tenha facilidade para se comunicar, goste de trabalhar em equipe e que tenha perfil investigativo. :sunglasses:
+Procuramos alguém que tenha facilidade para se comunicar, goste de trabalhar em equipe e que tenha perfil investigativo. :mag: :eyes:
 
 **Requisitos Técnicos:**
 
