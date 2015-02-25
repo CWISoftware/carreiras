@@ -10,10 +10,66 @@ Venha trabalhar em uma empresa em que você poderá adquirir experiência em dif
 
 ## Vagas Disponíveis
 
+* Analista Desenvolvedor Back-end (1 vaga)
+* Analista Desenvolvedor Front-end (1 vaga)
 * Desenvolvedor Ruby (4 vagas)
 * Analista Desenvolvedor Java Pleno (1 vaga)
 * Engenheiro Mobile (1 vaga)
 * Desenvolvedor Java Pleno (3 vagas)
+
+### Analista Desenvolvedor Back-end (1 vaga)
+
+Buscamos alguém com uma boa comunicação para lidar com a área de negócio. :back: :end:
+
+**Precisa ter:**
+
+* Ter experiência com linguagem de desenvolvimento Java (1.5, 1.6, 1.7 ou 1.8) e frameworks, Python ou Ruby;
+* Conhecer OO;
+* Vivência em teste automatizados;
+* Vivência em integração continua (jenkins);
+* Saber montar arquitetura de sistemas;
+* Trabalhar com sistemas de alta performance e escalável;
+* Possuir conhecimento de construção de API e serviços;
+* Usar Github;
+* Conhecer a prática de codereview;
+* Ser aderente ao desenvolvimento de sistemas utilizando métodos ágeis (Scrum e kanban).
+
+**Local de trabalho**
+
+Porto Alegre - RS
+
+**Tem interesse?**
+
+Então envia para nós o seu currículo, e-mail: [work@cwi.com.br](mailto:work@cwi.com.br) com o assunto "Interesse na oportunidade Desenvolvedor Back-end". :e-mail:
+
+
+### Analista Desenvolvedor Front-end (1 vaga) 
+
+Buscamos alguém com uma boa comunicação para lidar com a área de negócio. :speech_balloon:
+
+**Precisa ter:**
+
+- Sólido conhecimento em html5 (semantica, apis);
+- Sólido conhecimento em css (grids, componentes, organização de projetos de larga escala);
+- Conhecimento em Framework/lib js;
+- Conhecimento em Backbone,Ember, Angular; :a:
+- OO em JS (ter preocupação com a semântica do JS);
+- Pré-processadores CSS (sass, less ou stylus);
+- Task runners (grunt, gulp);
+- Github; :octocat:
+- Usar o jQuery de forma eficiente;
+- Experiências com sistemas de grande volume de acesso;
+- Conhecimento em teste automatizados (frameworks, jasmine, mocha, junit...); 
+- Preocupação com performance das páginas desenvolvidas;
+- Ser aderente ao desenvolvimento de sistemas utilizando métodos ágeis (scrum e kanban).
+
+**Local de trabalho**
+
+Porto Alegre - RS
+
+**Tem interesse?**
+
+Então envia para nós o seu currículo, e-mail: [work@cwi.com.br](mailto:work@cwi.com.br) com o assunto "Interesse na oportunidade Desenvolvedor Front-end". :e-mail:
 
 
 ### Desenvolvedor Ruby (4 vagas)
