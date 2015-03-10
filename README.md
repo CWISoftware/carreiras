@@ -12,9 +12,7 @@ Venha trabalhar em uma empresa em que você poderá adquirir experiência em dif
 
 * Analista Desenvolvedor Back-end (1 vaga)
 * Analista Desenvolvedor Front-end (1 vaga)
-* Desenvolvedor Ruby (4 vagas)
 * Analista Desenvolvedor Java Pleno (1 vaga)
-* Engenheiro Mobile (1 vaga)
 * Desenvolvedor Java Pleno (3 vagas)
 
 ### Analista Desenvolvedor Back-end (1 vaga)
@@ -72,28 +70,6 @@ Porto Alegre - RS
 Então envia para nós o seu currículo, e-mail: [work@cwi.com.br](mailto:work@cwi.com.br) com o assunto "Interesse na oportunidade Desenvolvedor Front-end". :e-mail:
 
 
-### Desenvolvedor Ruby (4 vagas)
-
-Estamos em busca de alguém que goste de trabalhar em equipe, que queira e tenha facilidade em aprender novas tecnologias e metodologias! :sunglasses:
-
-**Precisa ter experiência com:**
-
- * Ruby e Ruby on Rails;
- * Desenvolvimento Web (não apenas jQuery);
- * Desenvolvimento em ambiente UNIX;
- * Pelo menos uma prática de programação extrema;
- * Pelo menos uma prática de desenvolvimento ágil.
-
-**Local de trabalho**
-
-Porto Alegre - RS
-
-**Tem interesse?**
-
-Então envia para nós o seu currículo, e-mail: [work@cwi.com.br](mailto:work@cwi.com.br) com o assunto "Interesse na oportunidade Desenvolvedor Ruby". :e-mail:
-
-
-
 ### Analista Desenvolvedor Java Pleno (1 vaga)
 
 Procuramos alguém que tenha facilidade para se comunicar, goste de trabalhar em equipe e que tenha perfil investigativo. :mag: :eyes:
@@ -113,42 +89,6 @@ Porto Alegre - RS
 
 Envie seu currículo para [work@cwi.com.br](mailto:work@cwi.com.br) com o assunto "Interesse na oportunidade Analista Desenvolvedor Java"
 
-### Engenheiro Mobile (1 vaga)
-
-Nosso time quer trabalhar com profissionais que depuram o código do AngularJS e odeiam quebrar os testes do Jasmine. Brincadeiras à parte, se você ama desenvolvimento mobile e CoffeeScript está no lugar certo. :coffee:
-
-**Requisitos Técnicos:**
-
-* Ser um hard-user de plataformas e aplicativos mobile; 
-* Experiência mínima de 2 anos com JavaScript; 
-* Experiência mínima de 6 meses com AngularJS; 
-* Experiência mínima de 1 ano com HTML5; 
-* Já ter praticado TDD por mais tempo que a duração de um coding dojo; 
-* Refatorar apenas códigos cobertos por testes; 
-* Escrever testes ao encontrar um bug. 
-
-**Nice-to-have:**
-
-* Experiência prévia com CoffeeScript; 
-* Experiência prévia com desenvolvimento mobile híbrido; 
-* Experiência prévia com CSS3; 
-* Experiência GIT no modelo GIT-flow; 
-* Experiência de revisão de código com Pull Requests; 
-* Noções de design responsivo (!== incluir bootstrap na página); 
-* Noções de algum pré-processador CSS (de preferência SASS).
-
-**Competências comportamentais:**
-
-* Saber trabalhar em equipe, acima de tudo;
-* Ter comunicação clara e objetiva.
-
-**Local de trabalho**
-
-Porto Alegre - RS
-
-**Interesse?**
-
-Envie seu currículo para [nadia@cwi.com.br](mailto:nadia@cwi.com.br) com o assunto "Interesse na oportunidade Engenheiro mobile"
 
 ### Desenvolvedor Java Pleno (3 vagas)
 
