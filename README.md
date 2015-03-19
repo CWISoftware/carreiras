@@ -47,19 +47,20 @@ Buscamos alguém com uma boa comunicação para lidar com a área de negócio. :
 
 **Precisa ter:**
 
-- Sólido conhecimento em html5 (semantica, apis);
-- Sólido conhecimento em css (grids, componentes, organização de projetos de larga escala);
-- Conhecimento em Framework/lib js;
-- Conhecimento em Backbone,Ember, Angular; :a:
+- Sólido conhecimento em HTML5 (semântica, apis);
+- Sólido conhecimento em CSS (grids, componentes, organização de projetos de larga escala);
+- Conhecimento em Framework/lib JS;
+- Conhecimento em Backbone.js, AngularJS :a:, Ember;
 - OO em JS (ter preocupação com a semântica do JS);
-- Pré-processadores CSS (sass, less ou stylus);
-- Task runners (grunt, gulp);
-- Github; :octocat:
+- Pré-processadores CSS (SASS, LESS ou stylus);
+- Task runners (Grunt, Gulp);
+- GitHub; :octocat: 
+- Photoshop;
 - Usar o jQuery de forma eficiente;
 - Experiências com sistemas de grande volume de acesso;
-- Conhecimento em teste automatizados (frameworks, jasmine, mocha, junit...); 
+- Conhecimento em teste automatizados (Jasmine, Mocha, JUnit...);
 - Preocupação com performance das páginas desenvolvidas;
-- Ser aderente ao desenvolvimento de sistemas utilizando métodos ágeis (scrum e kanban).
+- Ser aderente ao desenvolvimento de sistemas utilizando métodos ágeis (Scrum e Kanban).
 
 **Local de trabalho**
 
