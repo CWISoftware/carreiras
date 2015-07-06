@@ -10,38 +10,14 @@ Venha trabalhar em uma empresa em que você poderá adquirir experiência em dif
 
 ## Vagas Disponíveis
 
-* Analista Desenvolvedor Back-end (1 vaga)
-* Analista Desenvolvedor Front-end (1 vaga)
-* Analista Desenvolvedor Java Pleno (1 vaga)
-* Desenvolvedor Java Pleno (3 vagas)
-
-### Analista Desenvolvedor Back-end (1 vaga)
-
-Buscamos alguém com uma boa comunicação para lidar com a área de negócio. :back: :end:
-
-**Precisa ter:**
-
-* Ter experiência com linguagem de desenvolvimento Java (1.5, 1.6, 1.7 ou 1.8) e frameworks, Python ou Ruby;
-* Conhecer OO;
-* Vivência em teste automatizados;
-* Vivência em integração continua (jenkins);
-* Saber montar arquitetura de sistemas;
-* Trabalhar com sistemas de alta performance e escalável;
-* Possuir conhecimento de construção de API e serviços;
-* Usar Github;
-* Conhecer a prática de codereview;
-* Ser aderente ao desenvolvimento de sistemas utilizando métodos ágeis (Scrum e kanban).
-
-**Local de trabalho**
-
-Porto Alegre - RS
-
-**Tem interesse?**
-
-Então envia para nós o seu currículo, e-mail: [work@cwi.com.br](mailto:work@cwi.com.br) com o assunto "Interesse na oportunidade Desenvolvedor Back-end". :e-mail:
+* Analista Desenvolvedor Front-end
+* Desenvolvedor Java Pleno
+* Desenvolvedor Java e Front-end
+* Desenvolvedor
 
 
-### Analista Desenvolvedor Front-end (1 vaga) 
+
+### Analista Desenvolvedor Front-end
 
 Buscamos alguém com uma boa comunicação para lidar com a área de negócio. :speech_balloon:
 
@@ -71,27 +47,8 @@ Porto Alegre - RS
 Então envia para nós o seu currículo, e-mail: [work@cwi.com.br](mailto:work@cwi.com.br) com o assunto "Interesse na oportunidade Desenvolvedor Front-end". :e-mail:
 
 
-### Analista Desenvolvedor Java Pleno (1 vaga)
 
-Procuramos alguém que tenha facilidade para se comunicar, goste de trabalhar em equipe e que tenha perfil investigativo. :mag: :eyes:
-
-**Requisitos Técnicos:**
-
- * Experiência com desenvolvimento java e análise;
- * Bons conhecimentos de PL/SQL;
- * Boa capacidade analítica e tomada de decisão.
-
-
-**Local de trabalho**
-
-Porto Alegre - RS
-
-**Interesse?**
-
-Envie seu currículo para [work@cwi.com.br](mailto:work@cwi.com.br) com o assunto "Interesse na oportunidade Analista Desenvolvedor Java"
-
-
-### Desenvolvedor Java Pleno (3 vagas)
+### Desenvolvedor Java Pleno
 
 Procuramos alguém que priorize a qualidade de entregas e testes e que tenha um forte comprometimento com a equipe. :muscle:
 
@@ -99,14 +56,76 @@ Procuramos alguém que priorize a qualidade de entregas e testes e que tenha um 
 
  * Experiência com: JAVA EE, AngularJS ou outro Framework JavaScript MVC utilizando conceito SPA, RESTful, Bootstrap, Spring, Hibernate, Banco de dados Oracle;
 * Experiência com projetos utilizando metodologias ágeis;
-* Desejável conhecimento em SWT, JSP e iReports.
+* Desejável conhecimento em iReports.
 
 
 **Local de trabalho**
 
-Porto Alegre - RS
+São Leopoldo - RS
 
 **Interesse?**
 
 Envie seu currículo para [work@cwi.com.br](mailto:work@cwi.com.br) com o assunto "Interesse na oportunidade Desenvolvedor Java Pleno"
+
+
+
+### Desenvolvedor Java e Front-end
+
+Procuramos alguém que priorize a qualidade de entregas e testes e que tenha um forte comprometimento com a equipe, trabalhando com a implementação de front-end para dispositivos touch e chamadas para APIs!
+
+**Requisitos Técnicos:**
+
+* Experiência em desenvolvimento JEE;
+* Experiência de HTML5, CSS, JS;
+* Experiência com lib (jQuery) e frameworks js MV** Javascript (AngularJS);
+* Preocupação com a performance e usabilidade das páginas desenvolvidas;
+* Experiência com o consumo de API e serviços (SOAP e REST);
+* Experiência com sistemas de controle de versão.
+
+Desejável:
+* Vivência em teste automatizados;
+* Experiência de trabalho em equipes que utilizam métodos ágeis;
+* Vivência em integração continua;
+* Conhecimentos em Linux;
+* Conhecimentos em Python.
+
+**Local de trabalho**
+
+São Leopoldo - RS
+
+**Interesse?**
+
+Envie seu currículo para [work@cwi.com.br](mailto:work@cwi.com.br) com o assunto "Interesse na oportunidade Desenvolvedor Java e Front-end"
+
+
+
+### Desenvolvedor
+
+Procuramos alguém que tenha experiência em desenvolvimento em diversas tecnologias e goste de novos desafios e novas arquiteturas!
+
+**Requisitos Técnicos:**
+
+* Domínio de HTML5, CSS, JS;
+* Experiência com lib (jQuery) e frameworks js MV** Javascript (AngularJS);
+* Preocupação com a performance e usabilidade das páginas desenvolvidas;
+* Experiência com o consumo de API e serviços (SOAP e REST);
+* Experiência com desenvolvimento server-side;
+* Experiência com sistemas de controle de versão.
+
+Desejável:
+* Conhecimentos em JEE;
+* Vivência em teste automatizados;
+* Experiência de trabalho em equipes que utilizam métodos ágeis;
+* Vivência em integração continua;
+* Conhecimentos em Linux;
+* Conhecimentos em Python.
+
+**Local de trabalho**
+
+São Leopoldo - RS
+
+**Interesse?**
+
+Envie seu currículo para [work@cwi.com.br](mailto:work@cwi.com.br) com o assunto "Interesse na oportunidade Desenvolvedor"
+
 
